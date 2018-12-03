@@ -1,0 +1,24 @@
+{
+  "name": "period-compare",
+  "version": "0.1.0",
+  "description": "Module for comparing date range",
+  "main": "period-compare.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "javascript",
+    "node-js",
+    "date",
+    "compare",
+    "period"
+  ],
+  "author": "Muhammad Reyhan Abizar <abizareyhan@gmail.com> (https://github.com/abizareyhan)",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
